@@ -1,0 +1,14 @@
+streamlit
+langchain
+faiss-cpu
+PyPDF2
+python-dotenv
+groq
+tiktoken
+langchain_groq
+langchain_community
+pypdf
+sentence_transformers
+chromadb
+torch
+transformers
