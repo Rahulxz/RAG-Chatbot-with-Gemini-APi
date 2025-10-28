@@ -1,4 +1,6 @@
-# 🤖 Smart PDF Chatbot — Powered by Groq LLM & Streamlit
+# 🤖 Smart RAG PDF Chatbot — Powered by Gemini LLM & Streamlit
+
+**Project link:** https://rag-chatbot-with-gemini-api-projects.streamlit.app/
 
 ### _"Ask questions directly from your own PDFs — with AI that answers only from your documents."_
 
