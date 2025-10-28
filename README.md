@@ -8,7 +8,7 @@
 
 ## 🧩 Overview
 
-This project is an **intelligent document-based chatbot** built using **Streamlit** and the **Groq LLM API**.  
+This project is an **intelligent document-based chatbot** built using **Streamlit** and the **Gemini LLM API**.  
 It allows users to **upload one or more PDF files**, and then **ask natural language questions** about the content.  
 The chatbot retrieves relevant information from the PDFs and generates accurate answers in real time.
 
