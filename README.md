@@ -82,6 +82,3 @@ This approach ensures:
 | **PDF Processing** | PyPDF2 / LangChain Document Loaders |
 
 ---
-
-## 📂 Project Structure
-
